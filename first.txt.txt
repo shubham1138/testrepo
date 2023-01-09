@@ -1,0 +1,2 @@
+this is just a text file to know that our git project is going to work and that theres no issue coming forward and
+that is for sure
